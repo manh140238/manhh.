@@ -1,5 +1,4 @@
-maianhh     
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +9,7 @@ maianhh
 
         :root {
             --primary-color: #4A90E2; /* Màu xanh dương hiện đại */
-            --secondary-color: #F8E71C; /* Màu vàng nhấn */
+            --secondary-color: #F8E71C; /* Màu hồng nhấb */
             --background-color: #F4F7F6; /* Nền xám nhạt */
             --card-background: #FFFFFF; /* Nền thẻ trắng */
             --text-color: #333333; /* Màu chữ đen xám */
